@@ -14,4 +14,4 @@ webtemplate-dpaw==0.4.8
 openpyxl==2.2.6
 coverage==3.7.1
 mixer==5.6.6
-gunicorn==19.7.1
+uwsgi==2.0.15
